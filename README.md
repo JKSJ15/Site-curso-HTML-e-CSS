@@ -16,7 +16,6 @@ Projeto desenvolvido durante um curso de **HTML5 e CSS3**, com foco no aprendiza
 ## Tecnologias utilizadas
 - HTML5
 - CSS3
-- Normalize.css
 
 ## Estrutura do projeto
 ```bash
