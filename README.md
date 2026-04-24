@@ -17,7 +17,6 @@ Projeto desenvolvido durante um curso de **HTML5 e CSS3**, com foco no aprendiza
 - HTML5
 - CSS3
 - Normalize.css
-- Google Fonts
 
 ## Estrutura do projeto
 ```bash
@@ -45,6 +44,6 @@ Durante o desenvolvimento deste projeto foram aplicados conceitos como:
 
 ## Como executar:
 - Clone o repositório:
-  git clone https://github.com/seu-usuario/seu-repositorio.git
+  git clone https://github.com/JKSJ15/Site-curso-HTML-e-CSS
 - Abra o arquivo:
   index.html
